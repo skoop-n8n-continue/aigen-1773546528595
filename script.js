@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // In a real environment, this might fetch fresh data,
     // cycle through different products, or handle screen refresh logic.
 
-    console.log("Nacho Supreme Display Initialized");
+    console.log("Lost Farm Juicy Peach Display Initialized");
 
     // Optional: Auto-reload to keep content fresh on digital signage
     // This simulates a signage player reloading its playlist every few minutes
